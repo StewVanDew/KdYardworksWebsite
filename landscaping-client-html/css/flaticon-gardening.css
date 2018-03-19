@@ -1,0 +1,499 @@
+@font-face {
+    font-family: 'flaticon-gardening';
+    src:    url('../fonts/flaticon-gardening/fonts/flaticon-gardening.eot?yk2zgy');
+    src:    url('../fonts/flaticon-gardening/fonts/flaticon-gardening.eot?yk2zgy#iefix') format('embedded-opentype'),
+        url('../fonts/flaticon-gardening/fonts/flaticon-gardening.ttf?yk2zgy') format('truetype'),
+        url('../fonts/flaticon-gardening/fonts/flaticon-gardening.woff?yk2zgy') format('woff'),
+        url('.../fonts/flaticon-gardening/fonts/flaticon-gardening.svg?yk2zgy#flaticon-gardening') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="flaticon-gardening-"], [class*=" flaticon-gardening-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'flaticon-gardening' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-gardening-black:before {
+    content: "\eb80";
+}
+.flaticon-gardening-black-1:before {
+    content: "\eb81";
+}
+.flaticon-gardening-bucket2:before {
+    content: "\eb82";
+}
+.flaticon-gardening-can:before {
+    content: "\eb83";
+}
+.flaticon-gardening-chop:before {
+    content: "\eb84";
+}
+.flaticon-gardening-construction2:before {
+    content: "\eb85";
+}
+.flaticon-gardening-construction-12:before {
+    content: "\eb86";
+}
+.flaticon-gardening-construction-2:before {
+    content: "\eb87";
+}
+.flaticon-gardening-construction-3:before {
+    content: "\eb88";
+}
+.flaticon-gardening-cross:before {
+    content: "\eb89";
+}
+.flaticon-gardening-cut2:before {
+    content: "\eb8a";
+}
+.flaticon-gardening-cut-12:before {
+    content: "\eb8b";
+}
+.flaticon-gardening-cut-2:before {
+    content: "\eb8c";
+}
+.flaticon-gardening-cut-3:before {
+    content: "\eb8d";
+}
+.flaticon-gardening-equipment2:before {
+    content: "\eb8e";
+}
+.flaticon-gardening-equipment-12:before {
+    content: "\eb8f";
+}
+.flaticon-gardening-equipment-22:before {
+    content: "\eb90";
+}
+.flaticon-gardening-farm2:before {
+    content: "\eb91";
+}
+.flaticon-gardening-farming2:before {
+    content: "\eb92";
+}
+.flaticon-gardening-fence2:before {
+    content: "\eb93";
+}
+.flaticon-gardening-fence-12:before {
+    content: "\eb94";
+}
+.flaticon-gardening-fence-2:before {
+    content: "\eb95";
+}
+.flaticon-gardening-fence-3:before {
+    content: "\eb96";
+}
+.flaticon-gardening-fence-4:before {
+    content: "\eb97";
+}
+.flaticon-gardening-flowers-gardening-pot:before {
+    content: "\eb98";
+}
+.flaticon-gardening-food2:before {
+    content: "\eb99";
+}
+.flaticon-gardening-food-1:before {
+    content: "\eb9a";
+}
+.flaticon-gardening-food-2:before {
+    content: "\eb9b";
+}
+.flaticon-gardening-fork2:before {
+    content: "\eb9c";
+}
+.flaticon-gardening-fork-1:before {
+    content: "\eb9d";
+}
+.flaticon-gardening-fork-2:before {
+    content: "\eb9e";
+}
+.flaticon-gardening-fresh-tomato:before {
+    content: "\eb9f";
+}
+.flaticon-gardening-garden:before {
+    content: "\eba0";
+}
+.flaticon-gardening-garden-1:before {
+    content: "\eba1";
+}
+.flaticon-gardening-garden-2 .path1:before {
+    content: "\eba2";
+    color: rgb(0, 0, 0);
+}
+.flaticon-gardening-garden-2 .path2:before {
+    content: "\eba3";
+    margin-left: -1em;
+    color: rgb(0, 0, 0);
+}
+.flaticon-gardening-garden-2 .path3:before {
+    content: "\eba4";
+    margin-left: -1em;
+    color: rgb(255, 255, 255);
+}
+.flaticon-gardening-garden-2 .path4:before {
+    content: "\eba5";
+    margin-left: -1em;
+    color: rgb(0, 0, 0);
+}
+.flaticon-gardening-garden-can:before {
+    content: "\eba6";
+}
+.flaticon-gardening-gardener-hand-with-a-growing-plant-on-it:before {
+    content: "\eba7";
+}
+.flaticon-gardening-gardening2:before {
+    content: "\eba8";
+}
+.flaticon-gardening-gardening-12 .path1:before {
+    content: "\eba9";
+    color: rgb(150, 182, 197);
+}
+.flaticon-gardening-gardening-12 .path2:before {
+    content: "\ebaa";
+    margin-left: -1em;
+    color: rgb(0, 0, 0);
+}
+.flaticon-gardening-gardening-2:before {
+    content: "\ebab";
+}
+.flaticon-gardening-gardening-3:before {
+    content: "\ebac";
+}
+.flaticon-gardening-gardening-4:before {
+    content: "\ebad";
+}
+.flaticon-gardening-halloween:before {
+    content: "\ebae";
+}
+.flaticon-gardening-halloween-1:before {
+    content: "\ebaf";
+}
+.flaticon-gardening-home:before {
+    content: "\ebb0";
+}
+.flaticon-gardening-inclined-clippers:before {
+    content: "\ebb1";
+}
+.flaticon-gardening-interface:before {
+    content: "\ebb2";
+}
+.flaticon-gardening-lawnmowe:before {
+    content: "\ebb3";
+}
+.flaticon-gardening-leaves:before {
+    content: "\ebb4";
+}
+.flaticon-gardening-machine2:before {
+    content: "\ebb5";
+}
+.flaticon-gardening-machine-1:before {
+    content: "\ebb6";
+}
+.flaticon-gardening-machine-2:before {
+    content: "\ebb7";
+}
+.flaticon-gardening-nature2:before {
+    content: "\ebb8";
+}
+.flaticon-gardening-nature-16:before {
+    content: "\ebb9";
+}
+.flaticon-gardening-nature-22:before {
+    content: "\ebba";
+}
+.flaticon-gardening-nature-32:before {
+    content: "\ebbb";
+}
+.flaticon-gardening-nature-42:before {
+    content: "\ebbc";
+}
+.flaticon-gardening-nature-52:before {
+    content: "\ebbd";
+}
+.flaticon-gardening-nature-62:before {
+    content: "\ebbe";
+}
+.flaticon-gardening-nature-72:before {
+    content: "\ebbf";
+}
+.flaticon-gardening-nature-82:before {
+    content: "\ebc0";
+}
+.flaticon-gardening-nature-92:before {
+    content: "\ebc1";
+}
+.flaticon-gardening-nature-102:before {
+    content: "\ebc2";
+}
+.flaticon-gardening-nature-112:before {
+    content: "\ebc3";
+}
+.flaticon-gardening-nature-122:before {
+    content: "\ebc4";
+}
+.flaticon-gardening-nature-132:before {
+    content: "\ebc5";
+}
+.flaticon-gardening-nature-142:before {
+    content: "\ebc6";
+}
+.flaticon-gardening-nature-152:before {
+    content: "\ebc7";
+}
+.flaticon-gardening-nature-162:before {
+    content: "\ebc8";
+}
+.flaticon-gardening-nature-17:before {
+    content: "\ebc9";
+}
+.flaticon-gardening-nature-18:before {
+    content: "\ebca";
+}
+.flaticon-gardening-nature-19:before {
+    content: "\ebcb";
+}
+.flaticon-gardening-nature-20:before {
+    content: "\ebcc";
+}
+.flaticon-gardening-nature-21:before {
+    content: "\ebcd";
+}
+.flaticon-gardening-nature-222:before {
+    content: "\ebce";
+}
+.flaticon-gardening-nature-23:before {
+    content: "\ebcf";
+}
+.flaticon-gardening-nature-24:before {
+    content: "\ebd0";
+}
+.flaticon-gardening-nature-25:before {
+    content: "\ebd1";
+}
+.flaticon-gardening-nature-26:before {
+    content: "\ebd2";
+}
+.flaticon-gardening-nature-27:before {
+    content: "\ebd3";
+}
+.flaticon-gardening-nature-28:before {
+    content: "\ebd4";
+}
+.flaticon-gardening-nature-29:before {
+    content: "\ebd5";
+}
+.flaticon-gardening-palette:before {
+    content: "\ebd6";
+}
+.flaticon-gardening-people2:before {
+    content: "\ebd7";
+}
+.flaticon-gardening-people-1:before {
+    content: "\ebd8";
+}
+.flaticon-gardening-people-2:before {
+    content: "\ebd9";
+}
+.flaticon-gardening-people-3:before {
+    content: "\ebda";
+}
+.flaticon-gardening-people-4:before {
+    content: "\ebdb";
+}
+.flaticon-gardening-people-5:before {
+    content: "\ebdc";
+}
+.flaticon-gardening-plant:before {
+    content: "\ebdd";
+}
+.flaticon-gardening-plant-1:before {
+    content: "\ebde";
+}
+.flaticon-gardening-plant-2:before {
+    content: "\ebdf";
+}
+.flaticon-gardening-plant-on-a-hand:before {
+    content: "\ebe0";
+}
+.flaticon-gardening-plants:before {
+    content: "\ebe1";
+}
+.flaticon-gardening-power:before {
+    content: "\ebe2";
+}
+.flaticon-gardening-scissors2:before {
+    content: "\ebe3";
+}
+.flaticon-gardening-scissors-1:before {
+    content: "\ebe4";
+}
+.flaticon-gardening-shapes:before {
+    content: "\ebe5";
+}
+.flaticon-gardening-shovel2:before {
+    content: "\ebe6";
+}
+.flaticon-gardening-shovel-12:before {
+    content: "\ebe7";
+}
+.flaticon-gardening-shovel-22:before {
+    content: "\ebe8";
+}
+.flaticon-gardening-shovel-32:before {
+    content: "\ebe9";
+}
+.flaticon-gardening-shovel-42:before {
+    content: "\ebea";
+}
+.flaticon-gardening-shovel-52:before {
+    content: "\ebeb";
+}
+.flaticon-gardening-shovel-62:before {
+    content: "\ebec";
+}
+.flaticon-gardening-shovel-7:before {
+    content: "\ebed";
+}
+.flaticon-gardening-shovel-8:before {
+    content: "\ebee";
+}
+.flaticon-gardening-shovel-9:before {
+    content: "\ebef";
+}
+.flaticon-gardening-shovel-and-rake:before {
+    content: "\ebf0";
+}
+.flaticon-gardening-sign:before {
+    content: "\ebf1";
+}
+.flaticon-gardening-spray:before {
+    content: "\ebf2";
+}
+.flaticon-gardening-sprout:before {
+    content: "\ebf3";
+}
+.flaticon-gardening-tool:before {
+    content: "\ebf4";
+}
+.flaticon-gardening-tool-1:before {
+    content: "\ebf5";
+}
+.flaticon-gardening-tool-2:before {
+    content: "\ebf6";
+}
+.flaticon-gardening-tool-3:before {
+    content: "\ebf7";
+}
+.flaticon-gardening-tool-4:before {
+    content: "\ebf8";
+}
+.flaticon-gardening-tool-5:before {
+    content: "\ebf9";
+}
+.flaticon-gardening-tool-6:before {
+    content: "\ebfa";
+}
+.flaticon-gardening-tool-7:before {
+    content: "\ebfb";
+}
+.flaticon-gardening-tool-8:before {
+    content: "\ebfc";
+}
+.flaticon-gardening-tool-9:before {
+    content: "\ebfd";
+}
+.flaticon-gardening-tool-10:before {
+    content: "\ebfe";
+}
+.flaticon-gardening-tool-11:before {
+    content: "\ebff";
+}
+.flaticon-gardening-tool-12:before {
+    content: "\ec00";
+}
+.flaticon-gardening-tool-13:before {
+    content: "\ec01";
+}
+.flaticon-gardening-tool-14:before {
+    content: "\ec02";
+}
+.flaticon-gardening-tool-15:before {
+    content: "\ec03";
+}
+.flaticon-gardening-tool-16:before {
+    content: "\ec04";
+}
+.flaticon-gardening-tool-17:before {
+    content: "\ec05";
+}
+.flaticon-gardening-tool-18:before {
+    content: "\ec06";
+}
+.flaticon-gardening-tools2:before {
+    content: "\ec07";
+}
+.flaticon-gardening-transport:before {
+    content: "\ec08";
+}
+.flaticon-gardening-tree:before {
+    content: "\ec09";
+}
+.flaticon-gardening-trolley:before {
+    content: "\ec0a";
+}
+.flaticon-gardening-trolley-1:before {
+    content: "\ec0b";
+}
+.flaticon-gardening-trowel:before {
+    content: "\ec0c";
+}
+.flaticon-gardening-tulip:before {
+    content: "\ec0d";
+}
+.flaticon-gardening-tulip-1:before {
+    content: "\ec0e";
+}
+.flaticon-gardening-water2:before {
+    content: "\ec0f";
+}
+.flaticon-gardening-water-12:before {
+    content: "\ec10";
+}
+.flaticon-gardening-watering2:before {
+    content: "\ec11";
+}
+.flaticon-gardening-watering-12:before {
+    content: "\ec12";
+}
+.flaticon-gardening-watering-2:before {
+    content: "\ec13";
+}
+.flaticon-gardening-watering-3:before {
+    content: "\ec14";
+}
+.flaticon-gardening-watering-4:before {
+    content: "\ec15";
+}
+.flaticon-gardening-work:before {
+    content: "\ec16";
+}
+.flaticon-gardening-work-1:before {
+    content: "\ec17";
+}
+.flaticon-gardening-working:before {
+    content: "\ec18";
+}
+.flaticon-gardening-working-1:before {
+    content: "\ec19";
+}
+

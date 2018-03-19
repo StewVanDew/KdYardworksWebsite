@@ -1,0 +1,106 @@
+/*  
+ * Extra.less 
+ * -----------------------------------------------
+*/
+
+/* -------- Heading Style ---------- */
+.heading-border {
+  border-bottom: 1px solid @gray-lightgray;
+  margin: 30px 0;
+  padding: 20px 0;
+}
+
+/* -------- FullCalendar - Plugin ---------- */
+.fc-day-number {
+  color: @black-333;
+  
+  &.fc-other-month {
+    opacity: 0.4;
+  }
+}
+/* scrolltofixed-container */
+.scrolltofixed-container {
+  position: static;
+}
+
+/* CSS Floation Animation */
+.floating{
+    float: left;
+    -webkit-animation-name: Floatingx;
+    -webkit-animation-duration: 3s;
+    -webkit-animation-iteration-count: infinite;
+    -webkit-animation-timing-function: ease-in-out;
+    -moz-animation-name: Floating;
+    -moz-animation-duration: 3s;
+    -moz-animation-iteration-count: infinite;
+    -moz-animation-timing-function: ease-in-out;
+    margin-top: 10px;
+
+}
+
+@-webkit-keyframes Floatingx{
+    from {-webkit-transform:translate(0, 0px);}
+    65% {-webkit-transform:translate(0, 15px);}
+    to {-webkit-transform: translate(0, -0px);    }    
+}
+    
+@-moz-keyframes Floating{
+    from {-moz-transform:translate(0, 0px);}
+    65% {-moz-transform:translate(0, 15px);}
+    to {-moz-transform: translate(0, -0px);}    
+}
+
+
+.scaling{
+    float: left;
+    -webkit-animation-name: scalex;
+    -webkit-animation-duration:3s;
+    -webkit-animation-iteration-count:infinite;
+    -webkit-animation-timing-function:ease-in-out;
+    -moz-animation-name: scale;
+    -moz-animation-duration:3s;
+    -moz-animation-iteration-count:infinite;
+    -moz-animation-timing-function:ease-in-out;
+}
+    
+@-webkit-keyframes scalex{
+    from {-webkit-transform: scale(0.9);}
+    65% {-webkit-transform: scale(1.0);}
+    to {-webkit-transform: scale(0.9);}    
+}
+    
+@-moz-keyframes scale{
+    from {-moz-transform: scale(0.9);}
+    65% {-moz-transform: scale(1.0);}
+    to {-moz-transform: scale(0.9);}    
+}
+
+
+
+
+/* stylish-header */
+.stylish-header {
+  background: #EC3642;
+  position: relative;
+  min-height: 80px;
+  padding: 0 0 20px;
+}
+.stylish-header:before {
+  content: '';
+  position: absolute;
+  top: 0;
+  height: 100%;
+  left: -650px;
+  width: 650px;
+  background: #EC3642;
+}
+.stylish-header:after {
+  content: '';
+  position: absolute;
+  left: 100%;
+  z-index: 999;
+  border-top: 80px solid #EC3642;
+  border-left: 0px solid transparent;
+  border-right: 105px solid transparent;
+  bottom: 0;
+}
